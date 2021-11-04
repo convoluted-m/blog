@@ -20,7 +20,7 @@ social:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Martyna Kościukiewicz
-    description: "Adventures in architectures"
+    description: ""
     keywords: [Blog, Portfolio, Linguistics, Computitional Linguistics, Natural Language Processing, Conversational AI]
     author: Martyna Kościukiewicz
     copyright: Martyna Kościukiewicz
@@ -100,7 +100,9 @@ params:
         - name: RSS
           url: "index.xml"
 
-    # analytics:
+    analytics:
+      plausible:
+        domain: convolutedmeanings.com
     #     google:
     #         SiteVerificationTag: "XYZabc"
     #     bing:
