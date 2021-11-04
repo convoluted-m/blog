@@ -1,0 +1,3 @@
+[submodule "themes/burgermod"]
+	path = themes/burgermod
+	url = https://github.com/mylesagray/hugo-BurgerMod.git
