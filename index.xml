@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Martyna Kościukiewicz</title>
+    <link>https://blah.cloud/</link>
+    <description>Recent content on Martyna Kościukiewicz</description>
+    <image>
+      <url>https://blah.cloud/images/og-card.jpg</url>
+      <link>https://blah.cloud/images/og-card.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Oct 2021 21:41:46 +0100</lastBuildDate><atom:link href="https://blah.cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://blah.cloud/posts/my-first-post/</link>
+      <pubDate>Mon, 25 Oct 2021 21:41:46 +0100</pubDate>
+      
+      <guid>https://blah.cloud/posts/my-first-post/</guid>
+      <description>Hi Test</description>
+    </item>
+    
+  </channel>
+</rss>
