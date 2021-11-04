@@ -1,0 +1,25 @@
+:root {
+    --theme: rgb(250, 250, 250);
+    --entry: rgb(15, 104, 76);
+    --primary: rgb(36, 42, 46);
+    --secondary: rgba(109, 110, 113, 1);
+    --tertiary: rgb(239, 247, 93);
+    --content: rgb(28, 26, 26);
+    --hljs-bg: #f8fad8;
+    --code-bg: --var(--hljs-bg);
+    --border: rgb(238, 231, 18);
+    --highlight: rgb(18, 143, 100);
+}
+
+.dark {
+    --theme: #1d1e20;
+    --entry: #2e2e33;
+    --primary: rgb(180, 255, 226);
+    --secondary: rgba(216, 214, 197, 1);
+    --tertiary: rgb(75, 75, 75);
+    --content: rgba(206, 205, 188, 1);
+    --hljs-bg: #282a36;
+    --code-bg: --var(--hljs-bg);
+    --border: rgb(180, 255, 226);
+    --highlight: rgba(88, 89, 91, 1);
+}
