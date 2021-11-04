@@ -2,19 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blah.cloud/</loc>
+    <loc>https://convolutedmeanings.com/posts/</loc>
     <lastmod>2021-10-25T21:41:46+01:00</lastmod>
   </url><url>
-    <loc>https://blah.cloud/posts/my-first-post/</loc>
+    <loc>https://convolutedmeanings.com/</loc>
     <lastmod>2021-10-25T21:41:46+01:00</lastmod>
   </url><url>
-    <loc>https://blah.cloud/posts/</loc>
+    <loc>https://convolutedmeanings.com/posts/my-first-post/</loc>
     <lastmod>2021-10-25T21:41:46+01:00</lastmod>
   </url><url>
-    <loc>https://blah.cloud/categories/</loc>
+    <loc>https://convolutedmeanings.com/categories/</loc>
   </url><url>
-    <loc>https://blah.cloud/series/</loc>
+    <loc>https://convolutedmeanings.com/search/</loc>
   </url><url>
-    <loc>https://blah.cloud/tags/</loc>
+    <loc>https://convolutedmeanings.com/series/</loc>
+  </url><url>
+    <loc>https://convolutedmeanings.com/tags/</loc>
   </url>
 </urlset>
