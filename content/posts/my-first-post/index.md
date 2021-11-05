@@ -23,17 +23,19 @@ Ecce muneris turba dixit: omne: sum facit, *placido onerataque* finita. Visa
 [iam mediis](http://www.caesaris-quid.io/fretumque.aspx) alis, vocesque mihi
 carmine.
 
-    windowsDisk(mode_bezel_agp, panel_freeware_scraping(third_agp_activex(
-            drive_radcab, metal_primary)));
-    if (-4) {
-        printClickImage *= 4;
-        bounce_development_golden = 3;
-        faviconBarBing.ipod_optic_computer /= biometrics_intranet_modifier;
-    }
-    plain_webmail.multitasking(youtubeNull);
-    if (3) {
-        blob += batch;
-    }
+```c++
+windowsDisk(mode_bezel_agp, panel_freeware_scraping(third_agp_activex(
+        drive_radcab, metal_primary)));
+if (-4) {
+    printClickImage *= 4;
+    bounce_development_golden = 3;
+    faviconBarBing.ipod_optic_computer /= biometrics_intranet_modifier;
+}
+plain_webmail.multitasking(youtubeNull);
+if (3) {
+    blob += batch;
+}
+```
 
 ## Patres ab mori aquarum
 
@@ -41,21 +43,11 @@ Misero tu inpetus habet ore gratare, cuique illis canis, candidus. Victoria
 contigit visa. Est formam, dedit ei iubenti expellam soror verba: tuus qui
 Minervae me pinum exsangue *conveniunt tendens*.
 
-    drmMarkup = codecRow(tcp_ram(4, clipboard, 2), lockToggleHypertext,
-            box_dongle + 1) - opengl(compile * activexLaptopDhcp);
-    if (ethics) {
-        rpm_pci_crossplatform(5, shortcutUpload.risc(whitelist), xml(binary_ibm,
-                5, gateHertz));
-    }
-    soundGigabit.wep += youtube_function_adware.tag_task(ddr, hardPadVoip, row +
-            3 - dvd);
-    trollScalableVlb = menuDosClock.python_commerce(icannOfflineFlowchart) + 97;
-    if (format_favorites.malware.ctr_terabyte_linux(ribbon - parallel_cell +
-            bashMbpsSector)) {
-        shortcut *= simmMemoryMetafile(dashboard + bcc, power_protocol);
-        modifierActiveAnimated += token_denial + cloud_json;
-        reader_character(rupScareware, opticalCamera);
-    }
+```python
+# This program prints Hello, world!
+
+print('Hello, world!')
+```
 
 Aliter aut, in placido praerupta, dumque
 [Hippodamen](http://www.satum-deficeret.com/) late deflent **nec**. Deorum
