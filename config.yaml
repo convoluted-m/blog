@@ -21,7 +21,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Convoluted Meanings
     description: ""
-    keywords: [Blog, Portfolio, Linguistics, Computitional Linguistics, Natural Language Processing, Conversational AI]
+    keywords: [Blog, Portfolio, Linguistics, Computational Linguistics, Natural Language Processing, Conversational AI]
     author: Martyna Kościukiewicz
     copyright: Martyna Kościukiewicz
     images: ["/images/og-card.jpg"]
@@ -76,6 +76,7 @@ params:
         title: Martyna Kościukiewicz
         subtitle: >
             Language nerd ℳ
+            Conversational AI explorer
             Tea monster 🍵
 
         imageUrl: "/images/photo.png"
@@ -141,13 +142,13 @@ menu:
           name: blog
           url: /posts/
           weight: 10
-        # - identifier: works
-        #   name: works
-        #   url: /works/
-        #   weight: 20
-        # - identifier: about
-        #   name: about
-        #   url: /about/
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 20
+        # - identifier: now
+        #   name: now
+        #   url: /now/
         #   weight: 30
         - identifier: search
           pre: '<svg style="height:1em;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="fill-current w-5" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
