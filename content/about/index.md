@@ -57,7 +57,7 @@ If you'd like to know about the idea behind the name of the blog, why don't you 
 
 ## Life
 
-I’m passionate about the philosophy and science of the mind. I basically love cool pictures of the brain with words like ‘Broca’s area’ written on them. Oh and mandalas. My limbic system really gets excited when I get hold of a book that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352). I’m a beginner on the yoga mat. I passionately read about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf.
+I’m passionate about the philosophy and science of the mind. I basically love cool pictures of the brain with words like ‘Broca’s area’ written on them. Oh and mandalas. My limbic system gets really excited when I get hold of a book that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352). I’m a beginner on the yoga mat. I passionately read about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf.
 
 ### Speaking my voice
 
