@@ -13,6 +13,12 @@ comments: false
 hideMeta: true
 ---
 
+## Background
+<!-- 
+{{< rawhtml >}}
+<img align="left" height="40%" width="40%" style="margin: 0 1em 0 0em" src="images/about-photo.png">
+{{< /rawhtml >}} -->
+
 Hi, I'm Martyna and I’m a language nerd.
 
 I discovered that reading poetry isn’t as cool as it used to be a few centuries ago so I switched to Machine Learning (ML).
@@ -55,7 +61,11 @@ I’m passionate about the philosophy and science of the mind. I basically love 
 
 ### Speaking my voice
 
-Since I can remember I have scribbled verses, first to make them rhyme, then to not rhyme them (!!) and finally letting them flow in whatever shapes they come about, picturing the images in my head. I love poetry and I can't paint. And I am an amateur. I love [reading poetry](https://soundcloud.com/user-797325276/dorothea-dubois-amazonian-gift) to the window and to the surprise of [two Italian Greyhounds](images/dogs.png). And to the [camera](https://www.youtube.com/watch?v=XYWkPdYxGQw).
+{{< rawhtml >}}
+<img align="right" height="40%" width="40%" style="margin: 0 0 0 1em" src="images/dogs.png">
+{{< /rawhtml >}}
+
+Since I can remember I have scribbled verses, first to make them rhyme, then to not rhyme them (!!) and finally letting them flow in whatever shapes they come about, picturing the images in my head. I love poetry and I can't paint. And I am an amateur. I love [reading poetry](https://soundcloud.com/user-797325276/dorothea-dubois-amazonian-gift) to the window and to the surprise of two Italian Greyhounds. And to the [camera](https://www.youtube.com/watch?v=XYWkPdYxGQw).
 
 PS I recently started experimenting with singing, I feel I’m onto something...
 
