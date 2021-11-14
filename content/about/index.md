@@ -47,7 +47,7 @@ More on phonetic alphabets for [Polish transcription by Grzegorz Jagodziński](h
 
 ## Convoluted Meanings
 
-If you'd like to know about the idea behind the name of the blog, why don't you hop over to the [post on it]().
+If you'd like to know about the idea behind the name of the blog, why don't you hop over to the [post on it](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
 
 ## Life
 
