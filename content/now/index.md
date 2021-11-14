@@ -4,7 +4,7 @@ type: "page"
 description: "What I'm currently up to"
 date: "2021-10-25T14:34:15+00:00"
 author: "Martyna Kościukiewicz"
-draft: true
+draft: false
 ShowPostRelatedContent: false
 disableShare: true
 comments: false
