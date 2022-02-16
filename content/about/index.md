@@ -73,4 +73,8 @@ PS I recently started experimenting with singing, I feel I’m onto something...
 
 I feel at home in the hills and mountains and I’ve been compared to a goat (which I believe is a compliment). I also strongly believe in walking our path in life, staying true to ourselves, and learning to be compassionate.
 
-_Thank you for popping in._ 🫖 
+### Finding balance
+
+ My personal story coupled with my philosophical interests has put me on a path of exploring the nature of the mind (or shall I say the body-mind), purpose and meaning. Our western culture has only recently started creating space for finding more balance between the different parts of our "self" and different areas of life. I hope to share some of my reflections and learnings on this journey. The name of the blog says it all. We are such a beautiful mosaic of interests, experiences and revelations.
+
+_Thank you for popping in._ 🫖
