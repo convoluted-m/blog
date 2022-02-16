@@ -25,7 +25,7 @@ I discovered that reading poetry isn’t as cool as it used to be a few centurie
 
 On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (AI) and managed to dig so many rabbit holes in the process that I wanted to share some of those explorations with you. Thank you for coming. _Would you like a cup of tea?_
 
-My interests span: NLP, AI assistants, translation, information architecture, conversation design, and more. These all sound like very lofty and aloof subjects but I promise you there is a job in there. I might weave into those topics some reflections on inclusion because of [my personal journey](https://owntrail.com/trail/convoluted_m).
+My interests span: NLP, AI assistants, translation, knowledge management, and more. These all sound like very lofty and aloof subjects but I promise you there is a job in there. I might weave into those topics some reflections on inclusion because of [my personal journey](https://owntrail.com/trail/convoluted_m).
 
 ![One of my bookshelves](images/books.png)
 
