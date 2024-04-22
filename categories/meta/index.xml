@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>meta on Convoluted Meanings</title>
+    <title>Meta on Convoluted Meanings</title>
     <link>https://convolutedmeanings.com/categories/meta/</link>
-    <description>Recent content in meta on Convoluted Meanings</description>
+    <description>Recent content in Meta on Convoluted Meanings</description>
     <image>
       <url>https://convolutedmeanings.com/images/og-card.jpg</url>
       <link>https://convolutedmeanings.com/images/og-card.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 14 Nov 2021 16:44:10 +0000</lastBuildDate><atom:link href="https://convolutedmeanings.com/categories/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Convoluted Meanings?</title>
