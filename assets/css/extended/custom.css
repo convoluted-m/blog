@@ -1,14 +1,14 @@
 :root {
     --theme: rgb(255, 255, 255);
-    --entry: rgb(15, 104, 76);
-    --primary: rgb(36, 42, 46);
-    --secondary: rgba(109, 110, 113, 1);
-    --tertiary: rgb(124, 154, 140);
-    --content: rgb(28, 26, 26);
+    --entry: rgb(194, 17, 79, 0.516);
+    --primary: rgb(84, 84, 84);
+    --secondary: rgba(194, 17, 79, 1);
+    --tertiary: rgba(194, 17, 79, 0.516);
+    --content: rgb(109, 109, 109);
     --hljs-bg: #e3e3e3;
     --code-bg: --var(--hljs-bg);
-    --border: rgb(124, 154, 140);
-    --highlight: rgb(124, 154, 140);
+    --border: rgb(194, 17, 79, 0.516);
+    --highlight: rgb(194, 17, 79, 0.516);
 }
 
 .dark {

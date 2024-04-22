@@ -75,11 +75,12 @@ params:
         enabled: true # needs to be explicitly set
         title: Martyna Kościukiewicz
         subtitle: >
-            Language nerd ℳ
-            ML explorer 🧭
-            Tea monster 🍵
+            Language nerd 🗯️
+            NLP 🚀 
+            Self-explorer 🌊
+            
 
-        imageUrl: "/images/photo_colour.png"
+        imageUrl: "/images/headshot.jpg"
         imageWidth: 250
         imageHeight: 250
         imageTitle: Martyna Kościukiewicz
@@ -102,7 +103,7 @@ params:
         - name: github
           url: "https://github.com/convoluted-m"
         - name: linkedin
-          url: "https://www.linkedin.com/in/martyna-ko%C5%9Bciukiewicz/"
+          url: "https://www.linkedin.com/in/martyna-kosciukiewicz/"
         - name: RSS
           url: "index.xml"
 
