@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Convoluted Meanings</title>
+    <link>http://Martynas-MacBook-Pro-Personal.local:1313/</link>
+    <description>Recent content on Convoluted Meanings</description>
+    <image>
+      <url>http://Martynas-MacBook-Pro-Personal.local:1313/images/og-card.jpg</url>
+      <link>http://Martynas-MacBook-Pro-Personal.local:1313/images/og-card.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Nov 2021 16:44:10 +0000</lastBuildDate><atom:link href="http://Martynas-MacBook-Pro-Personal.local:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Convoluted Meanings?</title>
+      <link>http://Martynas-MacBook-Pro-Personal.local:1313/meta/why-convoluted-meanings/</link>
+      <pubDate>Sun, 14 Nov 2021 16:44:10 +0000</pubDate>
+      
+      <guid>http://Martynas-MacBook-Pro-Personal.local:1313/meta/why-convoluted-meanings/</guid>
+      <description>Why I chose the name &amp;#39;Convoluted Meanings&amp;#39;</description>
+    </item>
+    
+    <item>
+      <title>Syntax testing</title>
+      <link>http://Martynas-MacBook-Pro-Personal.local:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 25 Oct 2021 21:41:46 +0100</pubDate>
+      
+      <guid>http://Martynas-MacBook-Pro-Personal.local:1313/posts/my-first-post/</guid>
+      <description>Maia dea mihi fugante Crescunt vultus nocuit non Lorem markdownum Icelon flamma; et quid ora mox gesserat haud dubiae adspicerent capacem ovis. Quae saxum crinem Thebae conreptus durasse dives Iove quietum camini Cyllaron voluptas, si ↗. Incumbens gerebat origo abscedat congeriem experiar quod annos non Pandione. Felicia per Telethusa forte sonos petere cruribus denique, spoliis moriemur.
+Acta quem obortae solidum et aspera Minyae Mihi cetera longaque neque undae pervenit Priameia Sinu ima esse ferar Nympha me factis et dedecus facies tua Ecce muneris turba dixit: omne: sum facit, placido onerataque finita.</description>
+    </item>
+    
+    <item>
+      <title>Hey, it&#39;s me!</title>
+      <link>http://Martynas-MacBook-Pro-Personal.local:1313/about/</link>
+      <pubDate>Mon, 25 Oct 2021 14:34:15 +0000</pubDate>
+      
+      <guid>http://Martynas-MacBook-Pro-Personal.local:1313/about/</guid>
+      <description>Background Hi, I&amp;rsquo;m Martyna and I’m a language nerd.
+I discovered that reading poetry isn’t as cool as it used to be a few centuries ago so I switched to Machine Learning (ML).
+On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (AI) and managed to dig so many rabbit holes in the process that I wanted to share some of those explorations with you.</description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>http://Martynas-MacBook-Pro-Personal.local:1313/now/</link>
+      <pubDate>Mon, 25 Oct 2021 14:34:15 +0000</pubDate>
+      
+      <guid>http://Martynas-MacBook-Pro-Personal.local:1313/now/</guid>
+      <description>What I&amp;#39;m currently up to</description>
+    </item>
+    
+    
+  </channel>
+</rss>

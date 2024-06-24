@@ -60,6 +60,10 @@ params:
         favicon32x32: /images/favicon-32x32.png
         apple_touch_icon: /images/apple-touch-icon.png
         safari_pinned_tab: /images/logo.png
+        theme_color:
+          light: rgba(194, 17, 79, 0.516)
+          dark: rgba(194, 17, 79, 0.516)
+        msapplication_TileColor: rgba(194, 17, 79, 0.516)
 
     label:
         text: "Convoluted Meanings"

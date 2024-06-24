@@ -1,25 +1,25 @@
 :root {
     --theme: rgb(255, 255, 255);
     --entry: rgb(194, 17, 79, 0.516);
-    --primary: rgb(84, 84, 84);
+    --primary: rgba(84, 84, 84) !important;
     --secondary: rgba(194, 17, 79, 1);
     --tertiary: rgba(194, 17, 79, 0.516);
     --content: rgb(109, 109, 109);
     --hljs-bg: #e3e3e3;
     --code-bg: --var(--hljs-bg);
-    --border: rgb(194, 17, 79, 0.516);
-    --highlight: rgb(194, 17, 79, 0.516);
+    --border: rgba(194, 17, 79, 0.516) !important;
+    --highlight: rgba(194, 17, 79, 0.516) !important;
 }
 
 .dark {
     --theme: #1d1e20;
     --entry: #2e2e33;
-    --primary: rgb(183, 185, 191);
+    --primary: rgb(183, 185, 191) !important;
     --secondary: rgb(193, 182, 225);
     --tertiary: rgb(75, 75, 75);
     --content: rgb(232, 232, 232);
     --hljs-bg: #282a36;
     --code-bg: --var(--hljs-bg);
-    --border: rgb(172, 162, 203);
-    --highlight: rgb(172, 162, 203);
+    --border: rgb(172, 162, 203) !important;
+    --highlight: rgb(172, 162, 203) !important;
 }
