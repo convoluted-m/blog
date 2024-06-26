@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "About me"
 type: "page"
 description: "Get to know me"
 date: "2021-10-25T14:34:15+00:00"
@@ -13,7 +13,7 @@ comments: false
 hideMeta: true
 ---
 
-## Thanks for popping in
+## Welcome
 <!-- 
 {{< rawhtml >}}
 <img align="left" height="40%" width="40%" style="margin: 0 1em 0 0em" src="images/about-photo.png">
@@ -22,6 +22,8 @@ hideMeta: true
 Hi, I'm Martyna and I’m a language nerd.
 
 I realized that reading poetry isn’t as cool as it used to be a few centuries ago and I switched to NLP.
+
+_Thank you for popping in._
 
 On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (CAI). I managed to dig many rabbit holes in the process so I thought I would share some of those explorations with you. That's how "Convoluted Meanings" came into being! More about blog idea [here](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
 
