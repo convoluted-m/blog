@@ -1,5 +1,5 @@
 ---
-title: "Hey, it's me!"
+title: "Welcome"
 type: "page"
 description: "Get to know me"
 date: "2021-10-25T14:34:15+00:00"
@@ -13,15 +13,13 @@ comments: false
 hideMeta: true
 ---
 
-## Welcome
+## Thanks for popping in
 <!-- 
 {{< rawhtml >}}
 <img align="left" height="40%" width="40%" style="margin: 0 1em 0 0em" src="images/about-photo.png">
 {{< /rawhtml >}} -->
 
 Hi, I'm Martyna and I’m a language nerd.
-
-_Thank you for popping in._ 
 
 I realized that reading poetry isn’t as cool as it used to be a few centuries ago and I switched to NLP.
 
