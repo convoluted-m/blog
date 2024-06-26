@@ -13,7 +13,7 @@ comments: false
 hideMeta: true
 ---
 
-## Background
+## Welcome
 <!-- 
 {{< rawhtml >}}
 <img align="left" height="40%" width="40%" style="margin: 0 1em 0 0em" src="images/about-photo.png">
@@ -21,15 +21,20 @@ hideMeta: true
 
 Hi, I'm Martyna and I’m a language nerd.
 
-I discovered that reading poetry isn’t as cool as it used to be a few centuries ago so I switched to Machine Learning (ML).
+_Thank you for popping in._ 
 
-On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (AI) and managed to dig so many rabbit holes in the process that I wanted to share some of those explorations with you. Thank you for coming. _Would you like a cup of tea?_
+I realized that reading poetry isn’t as cool as it used to be a few centuries ago and I switched to NLP.
 
-My interests span: NLP, AI assistants, translation, knowledge management, and more. These all sound like very lofty and aloof subjects but I promise you there is a job in there. I might weave into those topics some reflections on inclusion because of [my personal journey](https://owntrail.com/trail/convoluted_m).
+On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (CAI). I managed to dig many rabbit holes in the process so I thought I would share some of those explorations with you. That's how "Convoluted Meanings" came into being! More about blog idea [here](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
 
+_PS Did I tell you I love books?_
 ![One of my bookshelves](images/books.png)
 
-_P.S._ If you are wondering how to pronounce my first name (let’s start with the easier one), please click on the icon below:
+## Nerd Alert!
+
+As you have already guessed my name gives Central European vibes. Yes, I'm originally from Poland!
+
+If you're wondering how to pronounce my first name (let’s start with the easier one), I will make your life easier:
 
 {{< rawhtml >}}
 <figure>
@@ -51,30 +56,31 @@ Polish using the Slavic phonetic alphabet (AS)
 
 More on phonetic alphabets for [Polish transcription by Grzegorz Jagodziński](http://grzegorz.jagodzinski.prv.pl/gram/en/ipa.html).
 
-## Convoluted Meanings
+## Mental Health
 
-If you'd like to know about the idea behind the name of the blog, why don't you hop over to the [post on it](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
+Life is a very convoluted and exciting adventure. We cannot squeeze the truth about who we are on a one-page resume. I want to see the world in which we can invite all parts of ourselves to the spaces we inhabit, including workplaces. That's why this blog is not limited to my work-related interests.
 
-## Life
+Apart from language and AI, I'm deeply passionate about mental health and trauma healing. I have been walking my personal path of integrating the different pieces of me, recoovering from depression and healing from trauma. Over the years I have learned a thing or two. I want to advocate for the world in which we can openly speak about mental health and transform the way we live to honour our unique natures. I'm a volunteer for mental health support charity AWARE NI. I believe there is a lot ahead of me to do in this space and I will be sharing my experiences with you.
 
-I’m passionate about the philosophy and science of the mind. I basically love cool pictures of the brain with words like ‘Broca’s area’ written on them. Oh and mandalas. My limbic system gets really excited when I get hold of a book that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352). I’m a beginner on the yoga mat. I passionately read about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf.
+_PS. Did I tell you I love reading?_
+ I get really excited when I get hold of a book that talks about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf. I feel butterflies in my stomach finding a volume that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352).
 
 ### Speaking my voice
+
+I have been scribbling verses since I can remember. First to make them rhyme, then not to rhyme them (!!) and finally letting them flow in whatever form they come about, expressing the images coming through me. I love poetry. I read it, I write and I [speak it](https://soundcloud.com/user-797325276/dorothea-dubois-amazonian-gift) to the to the surprise of two Italian Greyhounds. And to the [camera](https://www.youtube.com/watch?v=XYWkPdYxGQw).
 
 {{< rawhtml >}}
 <img align="right" height="40%" width="40%" style="margin: 0 0 0 1em" src="images/dogs.png">
 {{< /rawhtml >}}
 
-Since I can remember I have scribbled verses, first to make them rhyme, then to not rhyme them (!!) and finally letting them flow in whatever shapes they come about, picturing the images in my head. I love poetry and I can't paint. And I am an amateur. I love [reading poetry](https://soundcloud.com/user-797325276/dorothea-dubois-amazonian-gift) to the window and to the surprise of two Italian Greyhounds. And to the [camera](https://www.youtube.com/watch?v=XYWkPdYxGQw).
-
-PS I recently started experimenting with singing, I feel I’m onto something...
+I'm also fascinated with voice and Slavic folk songs.
 
 ### Walking my path
 
-I feel at home in the hills and mountains and I’ve been compared to a goat (which I believe is a compliment). I also strongly believe in walking our path in life, staying true to ourselves, and learning to be compassionate.
+If I'm not lost in some book or digging in a garden, I'm very likely walking some hill. I’ve been compared to a goat and I believe it is a compliment. 
 
-### Finding balance
+I love outdoors in general. I'm a beginner mountain biker (+ 2 points for already bruised pelvic bone and ribs).
 
- My personal story coupled with my philosophical interests has put me on a path of exploring the nature of the mind (or shall I say the body-mind), purpose and meaning. Our western culture has only recently started creating space for finding more balance between the different parts of our "self" and different areas of life. I hope to share some of my reflections and learnings on this journey. The name of the blog says it all. We are such a beautiful mosaic of interests, experiences and revelations.
+I strongly believe in walking our own path in life, learning to embrace all the pieces of ourselves, and giving our life our own meaning. We are such a beautiful mosaic of experiences and revelations. The name of the blog says it all.
 
-_Thank you for popping in._ 🫖
+Thank you for coming! _Would you like a cup of tea?_ 🫖
