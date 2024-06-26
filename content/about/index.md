@@ -19,7 +19,7 @@ hideMeta: true
 <img align="left" height="40%" width="40%" style="margin: 0 1em 0 0em" src="images/about-photo.png">
 {{< /rawhtml >}} -->
 
-![Hey](images/about-photo.png)
+![Hey](images/about_photo.png)
 
 Hi, I'm Martyna and I’m a language nerd.
 
