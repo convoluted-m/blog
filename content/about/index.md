@@ -19,11 +19,13 @@ hideMeta: true
 <img align="left" height="40%" width="40%" style="margin: 0 1em 0 0em" src="images/about-photo.png">
 {{< /rawhtml >}} -->
 
+(images/about_photo.png)
+
 Hi, I'm Martyna and I’m a language nerd.
 
 I realized that reading poetry isn’t as cool as it used to be a few centuries ago and I switched to NLP.
 
-On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (CAI). I managed to dig many rabbit holes in the process so I thought I would share some of those explorations with you. That's how "Convoluted Meanings" came into being! More about blog idea [here](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
+On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (CAI). I managed to dig many rabbit holes in the process so I thought I would share some of those explorations with you. That's how "Convoluted Meanings" came into being! More about the blog idea [here](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
 
 _PS Did I tell you I love books?_
 ![One of my bookshelves](images/books.png)
@@ -58,9 +60,11 @@ More on phonetic alphabets for [Polish transcription by Grzegorz Jagodziński](h
 
 Life is a very convoluted and exciting adventure. We cannot squeeze the truth about who we are on a one-page resume. I want to see the world in which we can invite all parts of ourselves to the spaces we inhabit, including workplaces. That's why this blog is not limited to my work-related interests.
 
-Apart from language and AI, I'm deeply passionate about mental health and trauma healing. I have been walking my personal path of integrating the different pieces of me, recoovering from depression and healing from trauma. Over the years I have learned a thing or two. I want to advocate for the world in which we can openly speak about mental health and transform the way we live to honour our unique natures. I'm a volunteer for mental health support charity AWARE NI. I believe there is a lot ahead of me to do in this space and I will be sharing my experiences with you.
+Apart from language and AI, I'm deeply passionate about mental health. I have been walking my personal path of integrating the different pieces of me, recoovering from depression and healing from trauma. Over the years I have learned a thing or two. I want to advocate for the world in which we can openly speak about mental health and transform the way we live to honour our unique stories. I'm a volunteer for mental health support charity AWARE NI. I believe there is a lot ahead of me to do in this space, it's a path that's unfolding in front of me every day.
 
 _PS. Did I tell you I love reading?_
+
+(images/books_2.png)
  I get really excited when I get hold of a book that talks about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf. I feel butterflies in my stomach finding a volume that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352).
 
 ### Speaking my voice
@@ -73,9 +77,13 @@ I have been scribbling verses since I can remember. First to make them rhyme, th
 
 I'm also fascinated with voice and Slavic folk songs.
 
+(images/books_3.png)
+
 ### Walking my path
 
 If I'm not lost in some book, pondering Jungian analysis or digging in the garden, I'm very likely walking some hill. I’ve been compared to a goat and I believe it is a compliment.
+
+(images/hike.png)
 
 I love outdoors in general. I'm a beginner mountain biker (+ 2 points for already bruised pelvic bone and ribs).
 
