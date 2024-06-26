@@ -67,7 +67,7 @@ _PS. Did I tell you I love reading?_
 (images/books_2.png)
  I get really excited when I get hold of a book that talks about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf. I feel butterflies in my stomach finding a volume that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352).
 
-### Speaking my voice
+## Speaking my voice
 
 I have been scribbling verses since I can remember. First to make them rhyme, then not to rhyme them (!!) and finally letting them flow in whatever form they come about, expressing the images coming through me. I love poetry. I read it, I write and I [speak it](https://soundcloud.com/user-797325276/dorothea-dubois-amazonian-gift) to the to the surprise of two Italian Greyhounds. And to the [camera](https://www.youtube.com/watch?v=XYWkPdYxGQw).
 
@@ -79,7 +79,7 @@ I'm also fascinated with voice and Slavic folk songs.
 
 (images/books_3.png)
 
-### Walking my path
+## Walking my path
 
 If I'm not lost in some book, pondering Jungian analysis or digging in the garden, I'm very likely walking some hill. I’ve been compared to a goat and I believe it is a compliment.
 
