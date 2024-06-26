@@ -83,4 +83,6 @@ I love outdoors in general. I'm a beginner mountain biker (+ 2 points for alread
 
 I strongly believe in walking our own path in life, learning to embrace all the pieces of ourselves, and giving our life our own meaning. We are such a beautiful mosaic of experiences and revelations. The name of the blog says it all.
 
-Thank you for coming! _Would you like a cup of tea?_ 🫖
+Thank you for coming!
+
+_Would you like a cup of tea?_ 🫖
