@@ -23,8 +23,6 @@ Hi, I'm Martyna and I’m a language nerd.
 
 I realized that reading poetry isn’t as cool as it used to be a few centuries ago and I switched to NLP.
 
-_Thank you for popping in._
-
 On a more serious note, I’m a linguist who journeyed into the world of Natural Language Processing (NLP) and Conversational Artificial Intelligence (CAI). I managed to dig many rabbit holes in the process so I thought I would share some of those explorations with you. That's how "Convoluted Meanings" came into being! More about blog idea [here](https://convolutedmeanings.com/meta/why-convoluted-meanings/).
 
 _PS Did I tell you I love books?_
@@ -83,6 +81,6 @@ I love outdoors in general. I'm a beginner mountain biker (+ 2 points for alread
 
 I strongly believe in walking our own path in life, learning to embrace all the pieces of ourselves, and giving our life our own meaning. We are such a beautiful mosaic of experiences and revelations. The name of the blog says it all.
 
-Thank you for coming!
+Thank you for popping in!
 
 _Would you like a cup of tea?_ 🫖
