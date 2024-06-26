@@ -62,7 +62,7 @@ Life is a very convoluted and exciting adventure. We cannot squeeze the truth ab
 
 Apart from language and AI, I'm deeply passionate about mental health. I have been walking my personal path of integrating the different pieces of me, recoovering from depression and healing from trauma. Over the years I have learned a thing or two. I want to advocate for the world in which we can openly speak about mental health and transform the way we live to honour our unique stories. I'm a volunteer for mental health support charity AWARE NI. I believe there is a lot ahead of me to do in this space, it's a path that's unfolding in front of me every day.
 
-_PS. Did I tell you I love reading?_
+_PS Did I tell you I love reading?_
 
 ![more books](images/books_2.png)
 
@@ -77,8 +77,6 @@ I have been scribbling verses since I can remember. First to make them rhyme, th
 {{< /rawhtml >}}
 
 I'm also fascinated with voice and Slavic folk songs.
-
-![some more books](images/books_3.png)
 
 ## Walking my path
 
