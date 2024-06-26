@@ -77,7 +77,7 @@ I'm also fascinated with voice and Slavic folk songs.
 
 ### Walking my path
 
-If I'm not lost in some book or digging in a garden, I'm very likely walking some hill. I’ve been compared to a goat and I believe it is a compliment. 
+If I'm not lost in some book, pondering Jungian analysis or digging in the garden, I'm very likely walking some hill. I’ve been compared to a goat and I believe it is a compliment.
 
 I love outdoors in general. I'm a beginner mountain biker (+ 2 points for already bruised pelvic bone and ribs).
 
