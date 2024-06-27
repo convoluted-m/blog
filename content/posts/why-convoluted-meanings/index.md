@@ -7,7 +7,7 @@ type: posts
 description: "Why I chose the name 'Convoluted Meanings'"
 url: /meta/why-convoluted-meanings
 categories:
-  - meta
+  - ramblings
 tags:
   - website
   - brand
@@ -24,4 +24,4 @@ Given those philosophical ramblings and a diverse number of my interests (as wel
 
 The point is, even if things seem as tangled as my hair we can comb through those threads towards some smoother ending.
 
-And if this sounds a bit enigmatic... call me Convoluted_M (ba dum tsh! 🥁).
+And if this sounds a bit enigmatic... call me **Convoluted_M** (ba dum tsh! 🥁).

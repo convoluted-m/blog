@@ -94,7 +94,6 @@ params:
             - name: Posts
               url: posts
 
-
     # # home-info mode
     # homeInfoParams:
     #     Title: "Martyna Kościukiewicz"
