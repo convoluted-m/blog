@@ -66,7 +66,7 @@ _PS Did I tell you I love reading?_
 
 ![more books](images/books_2.png)
 
- I get really excited when I get hold of a book that talks about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/), and that knock the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf. I feel butterflies in my stomach finding a volume that [marries Western scientific thought with the ancient wisdom of the East](http://cup.columbia.edu/book/contemplative-science/9780231138352).
+ I get really excited when I get hold of a book that talks about [neuropeptides that are the link between the body and the mind](https://www.smithsonianmag.com/arts-culture/review-of-molecules-of-emotion-157256854/) and that knocks the [Cartesian dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) off the contemplative shelf.
 
 ## Speaking my voice
 
