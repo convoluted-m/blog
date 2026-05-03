@@ -4,15 +4,17 @@ author: Martyna Kościukiewicz
 date: {{ .Date }}
 lastmod: {{ .Date }}
 type: posts
-description: "Text-description"
-url: /category/postname
+description: "Short description for listings/SEO"
+series:
+  - Language Nerd Explains
 cover:
   relative: true
   image: images/cover.png
   alt: "Some-text"
 categories:
-  - ML
+  - Convoluted Unraveled
 tags:
-  - tag
+  - topic-one
+  - topic-two
 draft: true
 ---

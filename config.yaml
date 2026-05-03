@@ -1,6 +1,7 @@
 baseURL: "https://convolutedmeanings.com/"
 title: Convoluted Meanings
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: burgermod
 
 enableRobotsTXT: true
@@ -14,14 +15,11 @@ minify:
     disableXML: true
     minifyOutput: true
 
-social:
-  twitter: convoluted_m
-
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Convoluted Meanings
     description: ""
-    keywords: [Blog, Portfolio, Linguistics, Computational Linguistics, Natural Language Processing, Conversational AI]
+    keywords: [Convoluted Meanings, Convoluted Unraveled, Philosophy, Psychology, Spirituality, Mental Health Advocacy, Healing From Trauma, Understanding Depression, Psychosomatics, Conscious Movement, Intuitive Dance, Poetry, Language Nerd, Language Nerd Explains, Computational Linguistics, NLP, Conversational AI, AI Ethics, User Experience, User Centred Design, Digital Mental Health, Mental Health Tech, Trauma Informed, Women In AI, Women In Voice]
     author: Martyna Kościukiewicz
     copyright: Martyna Kościukiewicz
     images: ["/images/og-card.jpg"]
@@ -29,7 +27,7 @@ params:
     defaultTheme: auto
     disableThemeToggle: true
 
-    ShowReadingTime: false
+    ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: false
@@ -49,6 +47,9 @@ params:
       issueTerm: title
       theme: preferred-color-scheme
 
+    social:
+      twitter: convoluted_m
+
     schema:
       publisherType: Person
 
@@ -61,9 +62,9 @@ params:
         apple_touch_icon: /images/apple-touch-icon.png
         safari_pinned_tab: /images/logo.png
         theme_color:
-          light: rgba(194, 17, 79, 0.516)
-          dark: rgba(194, 17, 79, 0.516)
-        msapplication_TileColor: rgba(194, 17, 79, 0.516)
+          light: "#FAF8F2"
+          dark: "#2C2C2C"
+        msapplication_TileColor: "#1A5F5C"
 
     label:
         text: "Convoluted Meanings"
@@ -78,10 +79,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: Martyna Kościukiewicz
-        subtitle: >
-            Language nerd 💬
-            CAI & NLP 🤖  
-            Mental Health Advocate ❤️‍🔥
+        subtitle: "Language Nerd · Mental Health Advocate · Poet"
             
 
         imageUrl: "/images/headshot.jpg"

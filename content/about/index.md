@@ -7,7 +7,6 @@ aliases: ["about-us", "about-me", "contact"]
 author: "Martyna Kościukiewicz"
 draft: false
 ShowPostRelatedContent: false
-description: ""
 disableShare: true
 comments: false
 hideMeta: true
