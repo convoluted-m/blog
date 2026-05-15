@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Philosophy on Convoluted Meanings</title>
-    <link>https://convolutedmeanings.com/categories/philosophy/</link>
-    <description>Recent content in Philosophy on Convoluted Meanings</description>
+    <title>Language Nerd Explains on Convoluted Meanings</title>
+    <link>https://convolutedmeanings.com/categories/language-nerd-explains/</link>
+    <description>Recent content in Language Nerd Explains on Convoluted Meanings</description>
     <image>
       <url>https://convolutedmeanings.com/images/og-card.jpg</url>
       <link>https://convolutedmeanings.com/images/og-card.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Aug 2025 14:14:19 +0100</lastBuildDate><atom:link href="https://convolutedmeanings.com/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Aug 2025 14:14:19 +0100</lastBuildDate><atom:link href="https://convolutedmeanings.com/categories/language-nerd-explains/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On achievement society</title>
       <link>https://convolutedmeanings.com/philosophy/on-achievement-society/</link>
       <pubDate>Tue, 26 Aug 2025 14:14:19 +0100</pubDate>
       
       <guid>https://convolutedmeanings.com/philosophy/on-achievement-society/</guid>
-      <description>Philosophy meets Product Deisgn</description>
+      <description>Philosophy meets Product Design</description>
     </item>
     
   </channel>
