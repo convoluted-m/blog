@@ -20,7 +20,8 @@ params:
     title: Convoluted Meanings
     description: ""
     keywords: [Convoluted Meanings, Convoluted Unraveled, Philosophy, Psychology, Spirituality, Mental Health Advocacy, Healing From Trauma, Understanding Depression, Psychosomatics, Conscious Movement, Intuitive Dance, Poetry, Language Nerd, Language Nerd Explains, Computational Linguistics, NLP, Conversational AI, AI Ethics, User Experience, User Centred Design, Digital Mental Health, Mental Health Tech, Trauma Informed, Women In AI, Women In Voice]
-    author: Martyna Kościukiewicz
+    author: 
+      name: Martyna Kościukiewicz
     copyright: Martyna Kościukiewicz
     images: ["/images/og-card.jpg"]
     DateFormat: "January 2, 2006"
