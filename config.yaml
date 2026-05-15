@@ -90,8 +90,10 @@ params:
         buttons:
             - name: About
               url: about
-            - name: Posts
-              url: posts
+            - name: Stuff to Read
+              url: categories
+            - name: Poetry
+              url: tags/poetry
 
     # # home-info mode
     # homeInfoParams:

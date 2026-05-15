@@ -6,7 +6,7 @@ lastmod: {{ .Date }}
 type: posts
 description: "Short description for listings/SEO"
 series:
-  - Language Nerd Explains
+  - Example Series
 cover:
   relative: true
   image: images/cover.png

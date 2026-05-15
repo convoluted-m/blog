@@ -4,14 +4,14 @@ author: Martyna Kościukiewicz
 date: 2025-08-26T14:14:19+01:00
 lastmod: 2025-08-26T14:14:19+01:00
 type: posts
-description: "Philosophy meets Product Deisgn"
+description: "Philosophy meets Product Design"
 url: /philosophy/on-achievement-society
 cover:
   relative: true
   image: images/cover.png
   alt: "Some-text"
 categories:
-  - Philosophy
+  - Language Nerd Explains
 tags:
   - philosophicalrant
 draft: false

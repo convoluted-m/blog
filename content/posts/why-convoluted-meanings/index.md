@@ -7,9 +7,8 @@ type: posts
 description: "Why I chose the name 'Convoluted Meanings'"
 url: /meta/why-convoluted-meanings
 categories:
-  - ramblings
+  - Convoluted Unraveled
 tags:
-  - website
   - brand
 draft: false
 ---
