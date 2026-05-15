@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://convolutedmeanings.com/posts/</loc>
-    <lastmod>2026-05-03T19:15:00+01:00</lastmod>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
   </url><url>
     <loc>https://convolutedmeanings.com/categories/</loc>
-    <lastmod>2026-05-03T19:15:00+01:00</lastmod>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
   </url><url>
     <loc>https://convolutedmeanings.com/</loc>
-    <lastmod>2026-05-03T19:15:00+01:00</lastmod>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
+  </url><url>
+    <loc>https://convolutedmeanings.com/posts/my-language/</loc>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
+  </url><url>
+    <loc>https://convolutedmeanings.com/categories/poetry/</loc>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
+  </url><url>
+    <loc>https://convolutedmeanings.com/tags/poetry/</loc>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
+  </url><url>
+    <loc>https://convolutedmeanings.com/tags/</loc>
+    <lastmod>2026-05-15T18:24:28+02:00</lastmod>
   </url><url>
     <loc>https://convolutedmeanings.com/categories/convoluted-unraveled/</loc>
     <lastmod>2026-05-03T19:15:00+01:00</lastmod>
@@ -21,9 +33,6 @@
     <lastmod>2026-05-03T19:15:00+01:00</lastmod>
   </url><url>
     <loc>https://convolutedmeanings.com/tags/psychology/</loc>
-    <lastmod>2026-05-03T19:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://convolutedmeanings.com/tags/</loc>
     <lastmod>2026-05-03T19:15:00+01:00</lastmod>
   </url><url>
     <loc>https://convolutedmeanings.com/categories/language-nerd-explains/</loc>

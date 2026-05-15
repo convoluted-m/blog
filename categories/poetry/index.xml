@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on Convoluted Meanings</title>
-    <link>https://convolutedmeanings.com/posts/</link>
-    <description>Recent content in Blog on Convoluted Meanings</description>
+    <title>Poetry on Convoluted Meanings</title>
+    <link>https://convolutedmeanings.com/categories/poetry/</link>
+    <description>Recent content in Poetry on Convoluted Meanings</description>
     <image>
       <url>https://convolutedmeanings.com/images/og-card.jpg</url>
       <link>https://convolutedmeanings.com/images/og-card.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 18:24:28 +0200</lastBuildDate><atom:link href="https://convolutedmeanings.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2026 18:24:28 +0200</lastBuildDate><atom:link href="https://convolutedmeanings.com/categories/poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Language</title>
       <link>https://convolutedmeanings.com/posts/my-language/</link>
@@ -38,33 +38,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;by my nature
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;by the playful act of creation
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>No one-size-fits-all in mental health interventions</title>
-      <link>https://convolutedmeanings.com/posts/no-one-size-fits-all-mental-health/</link>
-      <pubDate>Sun, 03 May 2026 19:15:00 +0100</pubDate>
-      
-      <guid>https://convolutedmeanings.com/posts/no-one-size-fits-all-mental-health/</guid>
-      <description>On the nature of our creativity in healing and meaning seeking</description>
-    </item>
-    
-    <item>
-      <title>On achievement society</title>
-      <link>https://convolutedmeanings.com/philosophy/on-achievement-society/</link>
-      <pubDate>Tue, 26 Aug 2025 14:14:19 +0100</pubDate>
-      
-      <guid>https://convolutedmeanings.com/philosophy/on-achievement-society/</guid>
-      <description>Philosophy meets Product Design</description>
-    </item>
-    
-    <item>
-      <title>Why Convoluted Meanings?</title>
-      <link>https://convolutedmeanings.com/meta/why-convoluted-meanings/</link>
-      <pubDate>Sun, 14 Nov 2021 16:44:10 +0000</pubDate>
-      
-      <guid>https://convolutedmeanings.com/meta/why-convoluted-meanings/</guid>
-      <description>Why I chose the name &amp;#39;Convoluted Meanings&amp;#39;</description>
     </item>
     
   </channel>
